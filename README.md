@@ -1,4 +1,4 @@
-# OmniAuth Facebook &nbsp;[![Build Status](https://secure.travis-ci.org/mkdynamic/omniauth-facebook.svg?branch=master)](https://travis-ci.org/mkdynamic/omniauth-facebook) [![Gem Version](https://img.shields.io/gem/v/omniauth-facebook.svg)](https://rubygems.org/gems/omniauth-facebook)
+# OmniAuth [Facebook](https://aapks.com/apk/facebook/) &nbsp;[![Build Status](https://secure.travis-ci.org/mkdynamic/omniauth-facebook.svg?branch=master)](https://travis-ci.org/mkdynamic/omniauth-facebook) [![Gem Version](https://img.shields.io/gem/v/omniauth-facebook.svg)](https://rubygems.org/gems/omniauth-facebook)
 
 📣 **NOTICE** We’re looking for maintainers to help keep this project up-to-date. If you are interested in helping please open an Issue expressing your interest. Thanks! 📣
 
@@ -118,7 +118,7 @@ Here's an example *Auth Hash* available in `request.env['omniauth.auth']`:
 
 The precise information available may depend on the permissions which you request.
 
-## Client-side Flow with Facebook Javascript SDK
+## Client-side Flow with [Facebook](https://aapks.com/apk/facebook/) Javascript SDK
 
 You can use the Facebook Javascript SDK with `FB.login`, and just hit the callback endpoint (`/auth/facebook/callback` by default) once the user has authenticated in the success callback.
 
